@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "test2"
+    },
+    {
+      "id": "1",
+      "title": "test1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "comments1"
+    },
+    {
+      "body": "comments update",
+      "id": "2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
